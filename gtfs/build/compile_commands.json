@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/hamsika/Project3-main/gtfs/build",
+  "command": "/usr/bin/c++   -I/home/hamsika/Project3-main/gtfs/build -I/home/hamsika/Project3-main/gtfs/src  -g   -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wcast-align -Wunused -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -o CMakeFiles/tests.dir/tests/test.cpp.o -c /home/hamsika/Project3-main/gtfs/tests/test.cpp",
+  "file": "/home/hamsika/Project3-main/gtfs/tests/test.cpp"
+},
+{
+  "directory": "/home/hamsika/Project3-main/gtfs/build",
+  "command": "/usr/bin/c++   -I/home/hamsika/Project3-main/gtfs/src  -g   -fdiagnostics-color=always -Wall -Wextra -Wshadow -Wcast-align -Wunused -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wmisleading-indentation -Wduplicated-cond -Wduplicated-branches -Wlogical-op -o CMakeFiles/gtfs.dir/src/gtfs.cpp.o -c /home/hamsika/Project3-main/gtfs/src/gtfs.cpp",
+  "file": "/home/hamsika/Project3-main/gtfs/src/gtfs.cpp"
+}
+]

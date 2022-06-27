@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgtfs.a  CMakeFiles/gtfs.dir/src/gtfs.cpp.o
+/usr/bin/ranlib libgtfs.a

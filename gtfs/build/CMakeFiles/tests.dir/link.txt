@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/tests.dir/tests/test.cpp.o  -o tests  libgtfs.a 

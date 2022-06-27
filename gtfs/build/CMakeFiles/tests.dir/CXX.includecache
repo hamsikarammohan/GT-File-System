@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/gtfs.hpp
+string
+-
+cstdio
+-
+cstdlib
+-
+iostream
+-
+unistd.h
+-
+sys/wait.h
+-
+string.h
+-
+
+/home/hamsika/Project3-main/gtfs/tests/test.cpp
+gtfs.hpp
+-
+constants.hpp
+-
+sys/types.h
+-
+sys/stat.h
+-
+assert.h
+-
+fcntl.h
+-
+cstring
+-
+
+constants.hpp
+
